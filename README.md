@@ -104,7 +104,7 @@ app/src/main/java/com/yourpackage/shopkart/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Sarg3n7/shopkart.git
+   git clone https://github.com/yourusername/shopkart.git
    cd shopkart
    ```
 
@@ -162,6 +162,22 @@ The app fetches the following keys from Firebase Remote Config at launch:
 | `default_radius` | Default search radius (in km) |
 
 The Settings screen includes a **Remote Config debug panel** to inspect fetched values during development.
+
+---
+
+## 📸 Screenshots
+
+### Firebase Console
+
+| Firebase Remote Config — Parameters List | Firebase Remote Config — Version History |
+|---|---|
+| ![Remote Config Parameters](screenshots/firebase_remote_config_parameters.png) | ![Remote Config Version History](screenshots/firebase_remote_config_version_history.png) |
+
+### App Screens
+
+| Login Screen | Home Screen | Results Screen | Settings Screen |
+|---|---|---|---|
+| ![Login](screenshots/app_login.png) | ![Home](screenshots/app_home.png) | ![Results](screenshots/app_results.png) | ![Settings](screenshots/app_settings.png) |
 
 ---
 
